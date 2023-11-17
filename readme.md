@@ -6,6 +6,8 @@
 
 ### Excercício HTML e CSS
 
+<img src="https://github.com/LillyButterfly/trilha-css-desafio-01-main/assets/88951197/3ac980d8-d4dc-48c9-8406-4e749c963ab8" min-width="500px" max-width="800px" width="550px" align="center" alt="Print da tela">
+
 <p>Exercício CSS Avançado</p>
 
 <ul>
