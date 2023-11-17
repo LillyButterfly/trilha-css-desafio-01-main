@@ -1,0 +1,104 @@
+@media(max-width: 992px){
+    #professional-challenges h2, p{
+        width: 65rem;
+    }
+    
+    #professional-challenges h2{
+        font-size: 3rem;
+    }   
+
+}
+
+@media(max-width: 768px){
+    
+    #transform-world p{
+        margin-left: 10rem;
+    }
+    
+}
+
+@media(max-width: 698px){
+    #professional-challenges h2, p{
+        width: 60rem;
+    }   
+
+    #professional-challenges h2{
+        font-size: 2.6rem;
+    }   
+
+    #professional-challenges p{
+        font-size: 1.6rem;
+    }
+    
+}
+
+@media (max-width: 414px) {  
+    .banner-content .logo img{
+
+        width: 20rem;
+        height: 20rem;
+    }
+
+    h1{
+        font-size: 2.6rem;
+    }
+
+    .banner-content p{
+        font-size: 1.4rem; 
+        width: 30rem;
+       }
+
+       .btn-subscribe{
+        width: 20rem;
+        height: 2.6rem;
+        }
+
+        h2{
+            font-size: 1.8rem;
+            letter-spacing: 0.36rem;
+        }
+
+        .course-content p{
+            width: 30rem;
+            font-size: 1.2rem;   
+        }
+
+        .module{
+            width: 30rem;
+        }
+
+        #transform-world p{
+            font-size: 3.8rem;
+            margin-left: 6rem;
+        }
+
+        #professional-challenges{
+            height: 55rem;
+            margin-bottom: 3rem;
+        }
+        #professional-challenges h2, p{
+            width: 90%;
+            margin: 0 2rem;
+        }
+        
+        #professional-challenges h2{
+            font-size: 1.8rem;
+            letter-spacing: 0.1rem;
+        }
+        
+        footer img{
+            width: 60%;
+        }
+        footer p, a{
+            font-size: 1rem;
+        }
+        
+        #professional-challenges p{
+            font-size: 1.4rem;
+        }
+
+        #professional-challenges img{
+            width: 85%;
+        }
+
+}

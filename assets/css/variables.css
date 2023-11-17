@@ -1,0 +1,15 @@
+:root{
+    --bg-color: #000000;
+    --header-img-bg: url(./assets/images/banner.png);
+    --header-gradient: linear-gradient(180deg,rgba(0, 0, 0, 0.60) 20%, rgba(49, 168, 221, 0.2) 40%,rgba(0, 0, 0, 0.60));
+    --font-family: 'Raleway', sans-serif;
+    --gradient-font: linear-gradient(180deg, #33a8db, #269bd3, #1b8dca, #147fc1, #1472b7);
+    --primary-color: #33A8DB;
+    --secondary-color: rgba(0, 0, 0, 0.20); 
+    --font-primary-color: white;
+    --module-color:  #1e1e1ee0;
+    --shadow-color: rgba(0, 0, 0, 0.40);
+    --footer-gradient: linear-gradient(180deg, rgba(51, 168, 219, 0.00) 0%, rgba(51, 168, 219, 0.20) 99.99%, rgba(51, 168, 219, 0.20) 100%);
+}
+
+
